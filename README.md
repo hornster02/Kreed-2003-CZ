@@ -4,7 +4,7 @@ Včetně CZ dabingu. Velikost 129MB https://drive.google.com/drive/folders/1nNZK
 
 Pro hraní v 16:9 vysokých rozlišeních bude potřeba použít "dgVoodoo2" wrapper
 <br/>
-Upravil jsem 16:9 HOR- "XTend3D.dll" z odkazu níže na HOR+ (spíše nechtěně přidává lehce i k VERT+)
+Upravil jsem 16:9 VERT- "XTend3D.dll" z odkazu níže na HOR+ (spíše nechtěně přidává lehce i k VERT+)
 <br/>
 https://pikabu.ru/story/the_kreed_importozameshchyonnyiy_doom_3_8909497
 <br/>
