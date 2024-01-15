@@ -1,6 +1,12 @@
 MYABANDONWARE (2024-01)
 <br/>
-Včetně CZ dabingu. Velikost 129MB https://drive.google.com/drive/folders/1nNZKOl1cZHX7gikwJyZVE-_gd90m-cqY
+Včetně CZ dabingu. Velikost 47MB https://drive.google.com/drive/folders/1nNZKOl1cZHX7gikwJyZVE-_gd90m-cqY
+
+Postup
+<br/>
+-aplikovat CZ patch
+<br/>
+-nakopírovat obsah složky "_CZ-PART2" do hry
 
 Pro hraní v 16:9 vysokých rozlišeních bude potřeba použít "dgVoodoo2" wrapper
 <br/>
